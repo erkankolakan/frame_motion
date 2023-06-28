@@ -69,8 +69,6 @@ const Box3 = () => {
 export default Box3
 
 
-
-
 //when değerini kapsayıcıya vermek burada çok önemli çünkü biz ilk kapsayıcı gelsin daha sonra içindekiler gelsin diyoruz.
 // staggerChildren değerini de whenle beraber kullanıyoruz ki içindeki itemler daha sonradan tane tane gelmesini sağlar
 //staggerChildren değerini 0.5 yaptık ki her bir item 0.5 saniye arayla gelsin
