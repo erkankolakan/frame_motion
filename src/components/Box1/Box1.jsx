@@ -47,4 +47,6 @@ export default Box
 //animate bir div e sayfa yüklendiği zaman ne yapması gerektiğini söyleriz
 //animate nin içerisine çoğu css değerlerini yazabiliriz
 //transition bir div e animasyonun ne kadar sürmesi gerektiğini söyleriz. 
+//bir useState oluşturup ture ve false yi kontrol etmak aslında burada burda kritik bir nokta ture ise bu ol false bu ol dediğimiz OneLineIf yapsını kullanarak değerler atamış olduk.
+
 
